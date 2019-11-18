@@ -1,2 +1,2 @@
-# tensorflow_learn
-记录学习tensorflow的一些小项目
+# Fully connected neural network
+手写数字神经网络的搭建，训练和识别
